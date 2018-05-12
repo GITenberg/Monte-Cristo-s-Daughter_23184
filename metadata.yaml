@@ -1,0 +1,29 @@
+_repo: Monte-Cristo-s-Daughter_23184
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flagg, Edmund
+    birthdate: 1815
+    deathdate: 1890
+    gutenberg_agent_id: '25731'
+    url: http://www.gutenberg.org/2009/agents/25731
+description: ''
+gutenberg_issued: '2007-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23184'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dantès, Edmond (Fictitious character) -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Domestic fiction'
+title: Monte-Cristo's Daughter
+url: http://www.gutenberg.org/ebooks/23184
